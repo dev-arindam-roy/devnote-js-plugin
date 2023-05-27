@@ -21,5 +21,5 @@ like - Vue Js, React Js, Angular Js.
 ## Want to check the application?
 <a href="https://dev-arindam-roy.github.io/devnote-js-plugin/">Click here! to check It!</a>
 
-## Lisence MIT
+## Liscense MIT
 2023 - 2030
